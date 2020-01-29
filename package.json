@@ -1,7 +1,7 @@
 {
   "name": "rating-web",
   "version": "1.4.0",
-  "description": "Rating front-end",
+  "description": "Rating frront-end",
   "author": "Joey Schluchter <jschluchter@gmail.com>",
   "scripts": {
     "start": "SITE_CODE='FR' API='http://rating-api:8080' webpack-dev-server"
